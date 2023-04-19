@@ -1,4 +1,4 @@
-### **Erst pull, dann push >> "Vermeide Konflikte!"**
+### **Erst pull, dann push >> "Vermeide Konflikte - vermeide merge!"**
 
 #### **Video:**  [Erst pull, dann push](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EUxFnsbUTodIvwP3eRwg8cUBFvwW9wCWQAZkF8RsNtRHuw?e=bDoi4Z) 🎞
 
